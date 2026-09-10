@@ -1,6 +1,6 @@
 # whoami
 
-Guilherme Rosa — autodidata em tecnologia, migrando de desenvolvimento para cybersecurity
+Guilherme Rosa — Estudante de Cybersecurity | CEFET-MG
 
 Autodidata em tecnologia desde novembro de 2025, atualmente cursando **Técnico em Informática** no CEFET-MG.
 
