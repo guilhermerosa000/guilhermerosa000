@@ -1,6 +1,6 @@
 # whoami
 
-Guilherme Rosa — Estudante de Cybersecurity | CEFET-MG
+Guilherme Rosa — Estudante de Cybersecurity | Técnico em Informática CEFET-MG
 
 Autodidata em tecnologia desde novembro de 2025, atualmente cursando **Técnico em Informática** no CEFET-MG.
 
