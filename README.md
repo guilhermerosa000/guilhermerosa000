@@ -6,7 +6,7 @@ Autodidata em tecnologia desde novembro de 2025, atualmente cursando **Técnico 
 
 Comecei estudando Java e desenvolvimento de APIs REST, construindo aplicações do zero para entender a fundo como os sistemas funcionam. Ao estudar a segurança dessas mesmas aplicações, encontrei a área que mais me interessa: **cybersecurity**.
 
-- 🔭 Atualmente estudando fundamentos de sistemas e Linux em **[pwn.college](https://pwn.college)** — concluí o módulo *Linux Luminarium* e estou em *Computing 101*
+- 🔭 Atualmente estudando fundamentos de sistemas e Linux no **[pwn.college](https://pwn.college)** — concluí o módulo *Linux Luminarium* e estou no módulo *Computing 101*
 - 🕸️ Praticando exploração de vulnerabilidades web no **PortSwigger Web Security Academy** (Burp Suite)
 - 🎯 Resolvendo labs no **Hack The Box** e **TryHackMe**
 - 💻 Base sólida em **Java**, APIs REST com **Spring Boot** e bancos de dados relacionais
