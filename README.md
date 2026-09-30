@@ -34,7 +34,7 @@ Comecei estudando Java e desenvolvimento de APIs REST, construindo aplicações 
 
 ### 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermerosa000&show_icons=true&theme=default&hide_title=false)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermerosa000&show_icons=true&theme=default&hide_title=false)
 
 ---
 
