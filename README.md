@@ -32,12 +32,6 @@ Comecei estudando Java e desenvolvimento de APIs REST, construindo aplicações 
 
 ---
 
-### 📊 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermerosa000&show_icons=true&theme=default&hide_title=false)
-
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rosa-8a1a86334/)
